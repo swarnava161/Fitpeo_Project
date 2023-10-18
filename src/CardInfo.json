@@ -1,0 +1,39 @@
+[
+    {
+      "backgroundColor": "#50fc49",
+      "iconName": "FaDollarSign",
+      "earning": "$198k",
+      "info1":"Earning",
+      "amount":"37.8",
+      "color":"#176514",
+      "isIncrement": true
+    },
+    {
+        "backgroundColor": "#f9a4f9",
+        "iconName": "VscNotebook",
+        "earning": "$2.4k",
+        "info1":"Orders",
+        "amount":"2",
+        "color":"#b018b0",
+        "isIncrement": false
+    },
+    {
+        "backgroundColor": "#bbf4f9",
+        "iconName": "FaMoneyBill",
+        "earning": "$2.4k",
+        "info1":"Balance",
+        "amount":"2",
+        "color":"#0c07e4",
+        "isIncrement": false
+    },
+    {
+        "backgroundColor": "#faacac",
+        "iconName": "FaShoppingBag",
+        "earning": "$89k",
+        "info1":"Total Sales",
+        "amount":"11",
+        "color":"#d20b0b",
+        "isIncrement": true
+      }
+  ]
+  

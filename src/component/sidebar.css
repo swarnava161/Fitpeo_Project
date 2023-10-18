@@ -1,0 +1,56 @@
+.sidebar
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+ 
+    height: 100%;
+
+}
+
+.menu ul
+{
+  list-style-type: none;
+}
+.dropdownItem:hover
+{
+  
+  background-color: #8c96af;
+  border-radius: 10px;
+}
+.dropdownItem:first-child
+{
+  background-color: #8c96af;
+  border-radius: 5px;
+
+}
+.menu ul li:hover
+{
+  background-color: #8c96af;
+  border-radius: 10px;
+}
+.menu ul li:first-child
+{
+  background-color: #8c96af;
+  border-radius: 10px;
+}
+  
+.menu-dropdown
+{
+  display: none;
+}
+
+@media (max-width: 1000px) {
+ 
+  .sidebar
+  {
+    display: none;
+  }
+  .menu-dropdown
+  {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+  }
+}
